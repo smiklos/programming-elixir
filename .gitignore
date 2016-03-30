@@ -3,3 +3,10 @@
 /deps
 erl_crash.dump
 *.ez
+
+
+# IntelliJ files
+.idea/
+*.iml
+*.ipr
+*.iws
